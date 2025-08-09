@@ -13,6 +13,14 @@ management, and scalability, FreightXpert aims to revolutionize logistics by
 increasing operational efficiency, enhancing transparency, and delivering a 
 superior user experience.
 
+<img width="797" height="373" alt="image" src="https://github.com/user-attachments/assets/a132328d-ffaf-43ef-ba27-8e3e2f6ee9f4" />
+
+<img width="847" height="517" alt="image" src="https://github.com/user-attachments/assets/f6ac16fc-3f93-478f-a74e-c7c118f9c478" />
+
+<img width="789" height="357" alt="image" src="https://github.com/user-attachments/assets/846c97cd-e48f-40ec-9c78-161dfb9144c8" />
+
+
+
 Project Link - https://apex.oracle.com/pls/apex/r/fresa25_intern/freightxpert/home?session=14175390440480
 
 Technology Stack 
