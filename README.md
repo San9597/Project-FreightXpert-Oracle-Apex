@@ -13,6 +13,8 @@ management, and scalability, FreightXpert aims to revolutionize logistics by
 increasing operational efficiency, enhancing transparency, and delivering a 
 superior user experience.
 
+Project Link - https://apex.oracle.com/pls/apex/r/fresa25_intern/freightxpert/home?session=14175390440480
+
 Technology Stack 
 • Frontend: HTML, CSS, JavaScript 
 • Backend: SQL, Oracle APEX Workspace 
